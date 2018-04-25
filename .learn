@@ -7,3 +7,5 @@ tags:
 languages:
   - javascript
 resources: 2
+
+parent_template: git@github.com:learn-co-curriculum/js-looping-and-iteration-object-iteration-readme.git

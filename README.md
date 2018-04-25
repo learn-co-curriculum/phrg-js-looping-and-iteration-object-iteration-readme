@@ -187,3 +187,4 @@ Additionally, in the pre-ES2015 days, using `for...in` would often result in dif
 [for...in]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-looping-and-iteration-object-iteration-readme'>Object Iteration</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Object Iteration</p>
